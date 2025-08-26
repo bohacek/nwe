@@ -10,20 +10,20 @@ Data Range: 2025-08-18 to 2025-08-26
 Total Records: 175
 
 Data Series Averages:
-- Wind: 63.35 MW
-- Hydro: 209.37 MW
-- Thermal: 332.70 MW
-- Solar: 53.70 MW
-- Forecast: 782.45 MW
-- Total: 658.92 MW
+- Wind: 63.19 MW
+- Hydro: 209.29 MW
+- Thermal: 332.26 MW
+- Solar: 54.46 MW
+- Forecast: 783.02 MW
+- Total: 659.02 MW
 - Forecast Diff: 0.00 MW
 
-Last updated: 2025-08-26 17:31:59 UTC
+Last updated: 2025-08-26 17:38:13 UTC
 Data automatically collected from Northwestern Energy's public API.
 
 ```
 
-*Last updated: 2025-08-26 17:32:00 UTC*
+*Last updated: 2025-08-26 17:38:14 UTC*
 
 This summary shows the **past 30 days** of generation data from Northwestern Energy including:
 - Wind Generation
