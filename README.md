@@ -18,12 +18,12 @@ Data Series Averages:
 - Total: 658.55 MW
 - Forecast Diff: 0.00 MW
 
-Last updated: 2025-08-26 21:50:47 UTC
+Last updated: 2025-08-26 21:50:49 UTC
 Data automatically collected from Northwestern Energy's public API.
 
 ```
 
-*Last updated: 2025-08-26 21:50:47 UTC*
+*Last updated: 2025-08-26 21:50:49 UTC*
 
 This summary shows the **past 30 days** of generation data from Northwestern Energy including:
 - Wind Generation
