@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-09-13 00:46:00",
+    "wind_data": "44",
+    "hydro_data": "203",
+    "thermal_data": "261",
+    "solar_data": "0",
+    "forecast_data": "564",
+    "total_data": "507",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-09-13 01:46:00",
+    "wind_data": "12",
+    "hydro_data": "203",
+    "thermal_data": "253",
+    "solar_data": "0",
+    "forecast_data": "537",
+    "total_data": "467",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-09-13 02:46:00",
+    "wind_data": "3",
+    "hydro_data": "203",
+    "thermal_data": "253",
+    "solar_data": "0",
+    "forecast_data": "521",
+    "total_data": "458",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-09-13 03:46:00",
+    "wind_data": "4",
+    "hydro_data": "203",
+    "thermal_data": "245",
+    "solar_data": "0",
+    "forecast_data": "518",
+    "total_data": "451",
+    "forecast_diff": "0"
+  }
+]
