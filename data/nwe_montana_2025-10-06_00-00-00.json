@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2025-10-06 00:46:00",
+    "wind_data": "27",
+    "hydro_data": "176",
+    "thermal_data": "405",
+    "solar_data": "0",
+    "forecast_data": "590",
+    "total_data": "607",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-10-06 01:46:00",
+    "wind_data": "34",
+    "hydro_data": "175",
+    "thermal_data": "393",
+    "solar_data": "0",
+    "forecast_data": "569",
+    "total_data": "601",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-10-06 02:46:00",
+    "wind_data": "43",
+    "hydro_data": "177",
+    "thermal_data": "396",
+    "solar_data": "0",
+    "forecast_data": "552",
+    "total_data": "615",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-10-06 03:46:00",
+    "wind_data": "48",
+    "hydro_data": "178",
+    "thermal_data": "398",
+    "solar_data": "0",
+    "forecast_data": "552",
+    "total_data": "623",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-10-06 04:46:00",
+    "wind_data": "50",
+    "hydro_data": "179",
+    "thermal_data": "380",
+    "solar_data": "0",
+    "forecast_data": "561",
+    "total_data": "608",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-10-06 05:46:00",
+    "wind_data": "73",
+    "hydro_data": "179",
+    "thermal_data": "403",
+    "solar_data": "0",
+    "forecast_data": "611",
+    "total_data": "654",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2025-10-06 06:46:00",
+    "wind_data": "108",
+    "hydro_data": "179",
+    "thermal_data": "402",
+    "solar_data": "0",
+    "forecast_data": "625",
+    "total_data": "688",
+    "forecast_diff": "0"
+  }
+]
