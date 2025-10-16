@@ -4,7 +4,7 @@
 
 ![Northwestern Energy Generation Data](images/nwe_generation_plot.svg)
 
-*Last updated: 2025-10-15 21:51:16 UTC*
+*Last updated: 2025-10-16 12:51:08 UTC*
 
 This plot shows the **past 30 days** of generation data from Northwestern Energy including:
 - Wind Generation
