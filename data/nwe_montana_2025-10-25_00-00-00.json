@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-10-25 00:46:00",
+    "wind_data": "173",
+    "hydro_data": "191",
+    "thermal_data": "436",
+    "solar_data": "0",
+    "forecast_data": "564",
+    "total_data": "799",
+    "forecast_diff": "0"
+  }
+]
