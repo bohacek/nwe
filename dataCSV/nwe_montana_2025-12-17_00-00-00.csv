@@ -1,0 +1,4 @@
+timestamp,wind_data,hydro_data,thermal_data,solar_data,forecast_data,total_data,forecast_diff
+2025-12-17 00:46:00,114,271,157,0,648,542,0
+2025-12-17 01:46:00,105,270,157,0,618,532,0
+2025-12-17 02:46:00,170,268,155,0,613,592,0
