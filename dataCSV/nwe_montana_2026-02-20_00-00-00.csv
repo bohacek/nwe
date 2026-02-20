@@ -1,0 +1,4 @@
+timestamp,wind_data,hydro_data,thermal_data,solar_data,forecast_data,total_data,forecast_diff
+2026-02-20 00:46:00,8,254,455,0,782,717,0
+2026-02-20 01:46:00,20,254,454,0,765,727,0
+2026-02-20 02:46:00,32,248,434,0,765,713,0
