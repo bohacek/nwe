@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2026-03-03 00:46:00",
+    "wind_data": "207",
+    "hydro_data": "245",
+    "thermal_data": "492",
+    "solar_data": "0",
+    "forecast_data": "674",
+    "total_data": "943",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 01:46:00",
+    "wind_data": "169",
+    "hydro_data": "245",
+    "thermal_data": "396",
+    "solar_data": "0",
+    "forecast_data": "654",
+    "total_data": "809",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 02:46:00",
+    "wind_data": "162",
+    "hydro_data": "248",
+    "thermal_data": "375",
+    "solar_data": "0",
+    "forecast_data": "643",
+    "total_data": "784",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 03:46:00",
+    "wind_data": "102",
+    "hydro_data": "249",
+    "thermal_data": "457",
+    "solar_data": "0",
+    "forecast_data": "636",
+    "total_data": "807",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 04:46:00",
+    "wind_data": "140",
+    "hydro_data": "250",
+    "thermal_data": "510",
+    "solar_data": "0",
+    "forecast_data": "650",
+    "total_data": "900",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 05:46:00",
+    "wind_data": "152",
+    "hydro_data": "251",
+    "thermal_data": "564",
+    "solar_data": "0",
+    "forecast_data": "697",
+    "total_data": "967",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 06:46:00",
+    "wind_data": "198",
+    "hydro_data": "250",
+    "thermal_data": "606",
+    "solar_data": "0",
+    "forecast_data": "786",
+    "total_data": "1054",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 07:46:00",
+    "wind_data": "236",
+    "hydro_data": "253",
+    "thermal_data": "539",
+    "solar_data": "37",
+    "forecast_data": "887",
+    "total_data": "1065",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-03-03 08:46:00",
+    "wind_data": "164",
+    "hydro_data": "254",
+    "thermal_data": "397",
+    "solar_data": "120",
+    "forecast_data": "910",
+    "total_data": "935",
+    "forecast_diff": "0"
+  }
+]
