@@ -2,11 +2,11 @@
   {
     "timestamp": "2026-05-01 00:46:00",
     "wind_data": "40",
-    "hydro_data": "278",
+    "hydro_data": "279",
     "thermal_data": "436",
     "solar_data": "0",
     "forecast_data": "632",
-    "total_data": "754",
+    "total_data": "755",
     "forecast_diff": "0"
   },
   {
@@ -35,8 +35,158 @@
     "hydro_data": "237",
     "thermal_data": "390",
     "solar_data": "0",
-    "forecast_data": "550",
-    "total_data": "723",
+    "forecast_data": "546",
+    "total_data": "724",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 04:46:00",
+    "wind_data": "140",
+    "hydro_data": "278",
+    "thermal_data": "445",
+    "solar_data": "0",
+    "forecast_data": "557",
+    "total_data": "862",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 05:46:00",
+    "wind_data": "153",
+    "hydro_data": "277",
+    "thermal_data": "447",
+    "solar_data": "0",
+    "forecast_data": "606",
+    "total_data": "877",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 06:46:00",
+    "wind_data": "145",
+    "hydro_data": "282",
+    "thermal_data": "503",
+    "solar_data": "12",
+    "forecast_data": "690",
+    "total_data": "942",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 07:46:00",
+    "wind_data": "128",
+    "hydro_data": "282",
+    "thermal_data": "406",
+    "solar_data": "98",
+    "forecast_data": "780",
+    "total_data": "914",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 08:46:00",
+    "wind_data": "113",
+    "hydro_data": "283",
+    "thermal_data": "331",
+    "solar_data": "145",
+    "forecast_data": "833",
+    "total_data": "872",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 09:46:00",
+    "wind_data": "118",
+    "hydro_data": "283",
+    "thermal_data": "214",
+    "solar_data": "145",
+    "forecast_data": "843",
+    "total_data": "760",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 10:46:00",
+    "wind_data": "88",
+    "hydro_data": "283",
+    "thermal_data": "215",
+    "solar_data": "146",
+    "forecast_data": "843",
+    "total_data": "732",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 11:46:00",
+    "wind_data": "74",
+    "hydro_data": "284",
+    "thermal_data": "214",
+    "solar_data": "147",
+    "forecast_data": "829",
+    "total_data": "719",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 12:46:00",
+    "wind_data": "67",
+    "hydro_data": "282",
+    "thermal_data": "214",
+    "solar_data": "147",
+    "forecast_data": "819",
+    "total_data": "710",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 13:46:00",
+    "wind_data": "67",
+    "hydro_data": "281",
+    "thermal_data": "215",
+    "solar_data": "144",
+    "forecast_data": "808",
+    "total_data": "707",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 14:46:00",
+    "wind_data": "58",
+    "hydro_data": "278",
+    "thermal_data": "215",
+    "solar_data": "147",
+    "forecast_data": "799",
+    "total_data": "698",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 15:46:00",
+    "wind_data": "56",
+    "hydro_data": "278",
+    "thermal_data": "329",
+    "solar_data": "146",
+    "forecast_data": "795",
+    "total_data": "809",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 16:46:00",
+    "wind_data": "62",
+    "hydro_data": "277",
+    "thermal_data": "211",
+    "solar_data": "143",
+    "forecast_data": "793",
+    "total_data": "693",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 17:46:00",
+    "wind_data": "69",
+    "hydro_data": "274",
+    "thermal_data": "214",
+    "solar_data": "143",
+    "forecast_data": "795",
+    "total_data": "700",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-05-01 18:46:00",
+    "wind_data": "82",
+    "hydro_data": "274",
+    "thermal_data": "368",
+    "solar_data": "106",
+    "forecast_data": "796",
+    "total_data": "830",
     "forecast_diff": "0"
   }
 ]
