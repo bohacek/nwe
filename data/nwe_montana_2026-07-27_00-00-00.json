@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-07-27 00:46:00",
+    "wind_data": "11",
+    "hydro_data": "256",
+    "thermal_data": "581",
+    "solar_data": "1",
+    "forecast_data": "790",
+    "total_data": "849",
+    "forecast_diff": "0"
+  }
+]
