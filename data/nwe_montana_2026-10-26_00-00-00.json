@@ -218,5 +218,25 @@
     "forecast_data": "816",
     "total_data": "779",
     "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-10-26 22:46:00",
+    "wind_data": "51",
+    "hydro_data": "226",
+    "thermal_data": "493",
+    "solar_data": "0",
+    "forecast_data": "704",
+    "total_data": "769",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-10-26 23:46:00",
+    "wind_data": "113",
+    "hydro_data": "225",
+    "thermal_data": "489",
+    "solar_data": "0",
+    "forecast_data": "624",
+    "total_data": "826",
+    "forecast_diff": "0"
   }
 ]
