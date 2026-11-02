@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-11-02 00:46:00",
+    "wind_data": "275",
+    "hydro_data": "218",
+    "thermal_data": "444",
+    "solar_data": "0",
+    "forecast_data": "562",
+    "total_data": "936",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-11-02 01:46:00",
+    "wind_data": "256",
+    "hydro_data": "218",
+    "thermal_data": "424",
+    "solar_data": "0",
+    "forecast_data": "531",
+    "total_data": "897",
+    "forecast_diff": "0"
+  },
+  {
+    "timestamp": "2026-11-02 02:46:00",
+    "wind_data": "296",
+    "hydro_data": "218",
+    "thermal_data": "399",
+    "solar_data": "0",
+    "forecast_data": "527",
+    "total_data": "912",
+    "forecast_diff": "0"
+  }
+]
