@@ -1,0 +1,4 @@
+timestamp,wind_data,hydro_data,thermal_data,solar_data,forecast_data,total_data,forecast_diff
+2026-11-27 00:46:00,398,237,497,0,651,1131,0
+2026-11-27 01:46:00,394,238,465,0,624,1096,0
+2026-11-27 02:46:00,370,242,415,0,619,1026,0
